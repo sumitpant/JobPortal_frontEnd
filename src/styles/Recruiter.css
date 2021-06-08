@@ -1,0 +1,12 @@
+.create__jobs{
+    margin:20px;
+    display:flex;
+    flex-direction:row;
+    /* justify-content:space-between; */
+}
+   
+.welcome{
+    font-size:medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px;
+}

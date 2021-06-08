@@ -1,0 +1,27 @@
+.jobs_recruiter{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    margin: 10px;
+    
+}
+.recruiter__jobs{
+    width:90%;
+    height:50vh;
+    overflow-y: auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin: 20px;
+  
+}
+.recruiter__jobs>h3{
+    margin:10px;
+   
+}
+.jobs_recruiter>p{
+    margin: 10px;
+}
+.btn{
+    color:red;
+}

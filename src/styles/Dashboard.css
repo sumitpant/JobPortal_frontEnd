@@ -1,0 +1,50 @@
+.options__title{
+    display:flex;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+    align-items: center;
+    
+}
+.options__title>div{
+    padding:10px;
+    
+    
+}
+.options__title>div>h4{
+    color:gray
+}
+.options__container{
+    width:95%;
+    height:50vh;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.dashboard__summary{
+    display:flex;
+    justify-content:space-between;
+    
+
+}
+.summary__left{
+    margin: 10px;
+}
+.summary__right{
+    margin-right:10px;
+}
+.options>h3{
+    margin: 10px;
+}
+.right__title{
+    background-color:lightgray;
+    padding: 10px;
+    
+}
+/* .summary__right>.right__title>h4{
+    
+    color: gray;
+
+} */
+.jobs__dashboard{
+    display:flex;
+}
